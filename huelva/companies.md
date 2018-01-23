@@ -1,5 +1,5 @@
-Empresa | Web | Tipo
+Company | Website | Type
 --- | --- | ---
-The Global Password | https://theglobalpassword.com/ | Producto
-OXIK Studio | https://oxik.net | Servicios
-Agilia Center | http://www.agiliacenter.com/ | Servicios
+The Global Password | https://theglobalpassword.com/ | Product
+OXIK Studio | https://oxik.net | Services
+Agilia Center | http://www.agiliacenter.com/ | Services
