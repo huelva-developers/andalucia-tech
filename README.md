@@ -58,7 +58,10 @@ The Global Password | https://theglobalpassword.com/ | Product
 
 Company | Website | Type
 -- | -- | --
-one | company | here
+Ofimática | https://www.ofi.es/ | Product, Services
+Software DELSOL | https://www.sdelsol.com/ | Product, Services
+FingerCode | http://fingercode.es/ | Product, Services
+AM System | https://amsystem.es | Product, Services
 
 <a id="malaga"></a>
 ## Málaga
