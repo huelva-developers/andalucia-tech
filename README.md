@@ -28,6 +28,7 @@ Upware Studios | http://www.upwarestudios.com/ | Product / Services
 Company | Website | Type
 -- | -- | --
 47deg | https://www.47deg.com/ | Product / Services
+atSistemas | https://www.atsistemas.com/es | Services
 
 <a id="cordoba"></a>
 ## Córdoba
@@ -53,7 +54,7 @@ Agilia Center | http://www.agiliacenter.com/ | Services
 OXIK Studio | http://www.oxik.net/app.php/en/ | Services
 The Global Password | https://theglobalpassword.com/ | Product
 atSistemas | https://www.atsistemas.com/es | Services
-Seabery | https://www.seaberyat.com/es/pagina-inicial/ | Product
+Seabery | https://www.seaberyat.com/ | Product
 Datagram | https://www.datagram.es/ | Services
 OnDesarrollo | https://ondesarrollo.com/ | Services
 
