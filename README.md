@@ -16,7 +16,7 @@ Tech companies all over the Andalucía territory.
 Company | Website | Type
 -- | -- | --
 Coderty | http://coderty.com/ | Services
-Impresoras3D.com | https://www.impresoras3d.com/ | Product / E-Commerce
+Impresoras3D.com | https://www.impresoras3d.com/ | Product
 Mobyte Studio | https://www.mobyte.es/ | Services
 Neuro Digital | https://www.neurodigital.es/ | Product
 Realtrack Systems | http://www.realtracksystems.com/ | Product
@@ -36,7 +36,7 @@ atSistemas | https://www.atsistemas.com/es | Services
 Company | Website | Type
 -- | -- | --
 Audiense | https://es.audiense.com/ | Product
-The Neon Project | http://theneonproject.org | Consulting
+The Neon Project | http://theneonproject.org | Services
 
 <a id="granada"></a>
 ## Granada
