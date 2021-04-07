@@ -76,6 +76,7 @@ Dapda | https://www.dapda.com/ | Product / Services
 Company | Website | Type
 -- | -- | --
 Basebone | http://www.basebone.com/ | Product
+Skilling | https://skilling.com | Product
 
 <a id="sevilla"></a>
 ## Sevilla
