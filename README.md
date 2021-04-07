@@ -92,6 +92,10 @@ Logistiko | https://logistiko.es/ | Product
 Doggies in Town | https://www.doggiesintown.com/ | Product
 kaikoo | http://kaikoo.pro/ | Product
 MONEI | https://monei.com/es/ | Product
+Whalar | https://www.whalar.com/ | Services
+Ciklum | https://www.ciklum.com/ | Services
+Neueda | https://www.neueda.com/ | Services
+The Workshop | https://theworkshop.com/es/ | Services
 
 <a id="sevilla"></a>
 ## Sevilla
