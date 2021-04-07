@@ -77,6 +77,21 @@ Company | Website | Type
 -- | -- | --
 Basebone | http://www.basebone.com/ | Product
 Skilling | https://skilling.com | Product
+Predictiva | https://www.upbe.ai/ | Product
+Booh Food | https://boohfood.com/ | Product
+Dropier | https://dropier.com/ | Product
+Shapelets | https://shapelets.io/ | Product
+Muving | https://www.muving.com/ | Product
+Kronte | https://kronte.com/ | Product
+Taalentfy | http://bit.ly/taalentfylinkedin | Product
+SecureKids | https://securekids.es/ | Product
+Froged | https://www.froged.com/ | Product
+BrainsPro | https://www.brainspro.com/ | Product
+Checktobuild | https://www.checktobuild.com/ | Product
+Logistiko | https://logistiko.es/ | Product
+Doggies in Town | https://www.doggiesintown.com/ | Product
+kaikoo | http://kaikoo.pro/ | Product
+MONEI | https://monei.com/es/ | Product
 
 <a id="sevilla"></a>
 ## Sevilla
